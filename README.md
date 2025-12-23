@@ -1,6 +1,6 @@
 # Wallet Bot (Telegram)
 
-Telegram-бот “кошелёк” на Python (aiogram + SQLite): баланс, переводы, обмен GB ↔ GBc, маркетплейс услуг, рейтинги и админ-панель.
+Telegram-бот “кошелёк” на Python : баланс, переводы, обмен GB ↔ GBc, маркетплейс услуг, рейтинги и админ-панель.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Framework](https://img.shields.io/badge/aiogram-v3.x-2ea44f)
